@@ -1,3 +1,11 @@
-Aula 4
+Aula 4 | Componentes
 
 ng generate component <pasta> / <nome>
+
+Aula 8 | Diretivas
+
+ng generate component components/directives
+
+Aula 9 | ngIf
+
+ng generate component components/if-render
