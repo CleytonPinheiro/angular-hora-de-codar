@@ -9,3 +9,7 @@ ng generate component components/directives
 Aula 9 | ngIf
 
 ng generate component components/if-render
+
+Aula 10 | Eventos
+
+ng generate component components/eventos
