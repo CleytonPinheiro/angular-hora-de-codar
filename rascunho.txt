@@ -13,3 +13,24 @@ ng generate component components/if-render
 Aula 10 | Eventos
 
 ng generate component components/eventos
+
+Aula 11 | Emissão de eventos componente filho para pai
+
+ng generate component components/emitter
+
+ng generate component components/change-number
+
+Aula 12 | ngFor
+
+ng generate component components/list-render
+
+Aula 13 | Interfaces
+
+Aula 14 | Pipes
+
+ng generate component components/pipes
+
+Aula 15 | Two way data binding
+
+ng generate component components/two-way-binding
+
