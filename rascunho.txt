@@ -34,3 +34,7 @@ Aula 15 | Two way data binding
 
 ng generate component components/two-way-binding
 
+Aula 16 | Services
+
+ng generate service <name>
+
