@@ -38,3 +38,11 @@ Aula 16 | Services
 
 ng generate service <name>
 
+Aula 17 | Router
+
+Aula 18 | Requisições HTTP
+
+npm install json-server
+
+npm run server
+
