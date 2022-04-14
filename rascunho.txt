@@ -44,5 +44,15 @@ Aula 18 | Requisições HTTP
 
 npm install json-server
 
-npm run server
+npm run server -  (Rodando o back-end)
+
+Aula 19 | Rotas dinâmicas e carregando dados individuais
+
+ng generate component components/item-detail
+
+Aula 20 | Excluindo registros
+
+Aula 21 | Apresentação projeto
+
+Aula 22 | Preparando back-end
 
