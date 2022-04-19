@@ -56,3 +56,11 @@ Aula 21 | Apresentação projeto
 
 Aula 22 | Preparando back-end
 
+Backend -  
+
+node ace generate:key
+
+node ace migration:run
+
+node ace serve
+

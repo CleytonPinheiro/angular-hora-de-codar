@@ -7,12 +7,6 @@
       "age": 11
     },
     {
-      "id": 4,
-      "name": "Bob",
-      "type": "Horse",
-      "age": 2
-    },
-    {
       "id": 5,
       "name": "Paco",
       "type": "Bird",
