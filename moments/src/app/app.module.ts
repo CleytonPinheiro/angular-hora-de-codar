@@ -1,5 +1,7 @@
 import { NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
+import { HttpClientModule } from '@angular/common/http';
+import { FormsModule, ReactiveFormsModule } from '@angular/forms';
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
@@ -7,7 +9,8 @@ import { HeaderComponent } from './componets/header/header.component';
 import { FooterComponent } from './componets/footer/footer.component';
 import { AboutComponent } from './componets/pages/about/about.component';
 import { HomeComponent } from './componets/pages/home/home.component';
-import { NewMomentComponent } from './components/pages/new-moment/new-moment.component';
+import { NewMomentComponent } from './componets/new-moment/new-moment.component';
+import { MomentFormComponent } from './componets/moment-form/moment-form.component';
 
 @NgModule({
   declarations: [
@@ -16,11 +19,15 @@ import { NewMomentComponent } from './components/pages/new-moment/new-moment.com
     FooterComponent,
     AboutComponent,
     HomeComponent,
+    MomentFormComponent,
     NewMomentComponent
   ],
   imports: [
     BrowserModule,
-    AppRoutingModule
+    AppRoutingModule,
+    HttpClientModule,
+    FormsModule,
+    ReactiveFormsModule
   ],
   providers: [],
   bootstrap: [AppComponent]
