@@ -80,5 +80,5 @@ Inicie o servidor
 **Back-end:** Node
 
 
-![Logo](https://img2.gratispng.com/20180806/giz/kisspng-logo-angularjs-computer-icons-font-angular-make-it-5b6868285d8ac7.5993652215335690643832.jpg)
+![Logo](https://ih1.redbubble.net/image.559614997.1869/poster,504x498,f8f8f8-pad,600x600,f8f8f8.jpg)
 
