@@ -80,5 +80,7 @@ Inicie o servidor
 **Back-end:** Node
 
 
-![Logo](https://ih1.redbubble.net/image.559614997.1869/poster,504x498,f8f8f8-pad,600x600,f8f8f8.jpg)
+![Logo](https://ih1.redbubble.net/image.559614997.1869/poster,504x498,f8f8f8-pad,200x200,f8f8f8.jpg)
+
+<img src="https://ih1.redbubble.net/image.559614997.1869/poster,504x498,f8f8f8-pad,200x200,f8f8f8.jpg" width="200"/>
 
