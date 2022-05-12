@@ -3,7 +3,7 @@ export interface Moment {
     title: string,
     description: string,
     image: string,
-    comments?: [{ test: string, username: string} ],
+    comments?: [{ text: string, username: string} ],
     created_at?: string,
     updated_at?: string
 }
