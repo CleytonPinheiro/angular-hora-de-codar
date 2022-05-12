@@ -52,8 +52,7 @@ export class MomentComponent implements OnInit {
   async onSubmit(formDirective: FormGroupDirective) {
     
     if(this.commentForm.invalid) {
-      console.log("invalido form.");
-      return
+      return;
     }
 
     const data: Comment = this.commentForm.value;
@@ -71,6 +70,7 @@ export class MomentComponent implements OnInit {
   }
 
   async removeHandler(id: number) {
+
     await this.momentService.removeMoment(id).subscribe();
 
     this.messageService.add("Momento excluído com sucesso.");
